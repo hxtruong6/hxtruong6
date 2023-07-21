@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @hxtruong6
+![Hxtruong6's GitHub stats](https://github-readme-stats.vercel.app/api?username=hxtruong6&show_icons=true&theme=radical)
+
+
+
+
+-  👋 Hi, I’m @hxtruong6
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
