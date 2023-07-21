@@ -1,4 +1,4 @@
-![Hxtruong6's GitHub stats](https://github-readme-stats.vercel.app/api?username=hxtruong6&show_icons=true&theme=dracula&&bg_color=00000000)
+![Hxtruong6's GitHub stats](https://github-readme-stats.vercel.app/api?username=hxtruong6&show_icons=true&theme=dracula)
 
 
 
