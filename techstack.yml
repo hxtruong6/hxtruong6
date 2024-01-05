@@ -1,7 +1,8 @@
 repo_name: hxtruong6/hxtruong6
 report_id: 9ad2f5eedc6ca78a5b27d0c08a06b149
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-14T05:16:11+00:00'
+timestamp: '2024-01-05T08:45:21+00:00'
 requested_by: hxtruong6
 provider: github
 branch: main
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/hxtruong6/hxtruong6
   detection_source: Repo Metadata
