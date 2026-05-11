@@ -8,7 +8,6 @@
 
 ### 🚀 What I'm working on now
 
-- 🛠️ **[Tokimeki](https://github.com/ngocphat/tokimeki)** — a masterless, filesystem-based job runner in Go for shared-FS clusters. No coordinator, no broker, just the FS as the source of truth.
 - 🔬 **[osr-metrics](https://github.com/hxtruong6/osr-metrics)** — Open-Set Recognition & OOD-detection metrics for trustworthy ML.
 - 📚 Reading deeply on Bayes-optimal multi-label prediction and pre-order label structures.
 
@@ -73,7 +72,6 @@
 **🛠️ Backend & systems**
 | Project | What it is |
 |---|---|
-| [**Tokimeki**](https://github.com/ngocphat/tokimeki) | Masterless, FS-based job runner in Go for shared-FS clusters |
 | [**go-ecommerce-microservices**](https://github.com/hxtruong6/go-ecommerce-microservices) | E-commerce microservices in Go |
 
 ---
